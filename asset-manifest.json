@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/the-lazy-chef-deploy-this/static/css/main.22d329cf.chunk.css",
-    "main.js": "/the-lazy-chef-deploy-this/static/js/main.55f93999.chunk.js",
-    "main.js.map": "/the-lazy-chef-deploy-this/static/js/main.55f93999.chunk.js.map",
+    "main.css": "/the-lazy-chef-deploy-this/static/css/main.edf53e03.chunk.css",
+    "main.js": "/the-lazy-chef-deploy-this/static/js/main.e653403c.chunk.js",
+    "main.js.map": "/the-lazy-chef-deploy-this/static/js/main.e653403c.chunk.js.map",
     "runtime-main.js": "/the-lazy-chef-deploy-this/static/js/runtime-main.3020b152.js",
     "runtime-main.js.map": "/the-lazy-chef-deploy-this/static/js/runtime-main.3020b152.js.map",
-    "static/js/2.cea84437.chunk.js": "/the-lazy-chef-deploy-this/static/js/2.cea84437.chunk.js",
-    "static/js/2.cea84437.chunk.js.map": "/the-lazy-chef-deploy-this/static/js/2.cea84437.chunk.js.map",
+    "static/js/2.457cb57b.chunk.js": "/the-lazy-chef-deploy-this/static/js/2.457cb57b.chunk.js",
+    "static/js/2.457cb57b.chunk.js.map": "/the-lazy-chef-deploy-this/static/js/2.457cb57b.chunk.js.map",
     "index.html": "/the-lazy-chef-deploy-this/index.html",
-    "precache-manifest.4da7eeb3d1923fe11de4b36fef38b0c9.js": "/the-lazy-chef-deploy-this/precache-manifest.4da7eeb3d1923fe11de4b36fef38b0c9.js",
+    "precache-manifest.96b7c1f8200a4d205176876d2b75ece9.js": "/the-lazy-chef-deploy-this/precache-manifest.96b7c1f8200a4d205176876d2b75ece9.js",
     "service-worker.js": "/the-lazy-chef-deploy-this/service-worker.js",
-    "static/css/main.22d329cf.chunk.css.map": "/the-lazy-chef-deploy-this/static/css/main.22d329cf.chunk.css.map",
-    "static/js/2.cea84437.chunk.js.LICENSE.txt": "/the-lazy-chef-deploy-this/static/js/2.cea84437.chunk.js.LICENSE.txt"
+    "static/css/main.edf53e03.chunk.css.map": "/the-lazy-chef-deploy-this/static/css/main.edf53e03.chunk.css.map",
+    "static/js/2.457cb57b.chunk.js.LICENSE.txt": "/the-lazy-chef-deploy-this/static/js/2.457cb57b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3020b152.js",
-    "static/js/2.cea84437.chunk.js",
-    "static/css/main.22d329cf.chunk.css",
-    "static/js/main.55f93999.chunk.js"
+    "static/js/2.457cb57b.chunk.js",
+    "static/css/main.edf53e03.chunk.css",
+    "static/js/main.e653403c.chunk.js"
   ]
 }
