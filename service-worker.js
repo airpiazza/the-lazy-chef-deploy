@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/the-lazy-chef-deploy-this/precache-manifest.9adb14c36b7d1db66906d32113d28f9a.js"
+  "/the-lazy-chef-deploy-this/precache-manifest.43b7a3d98fb8d5a988f44d5c1a9e6c2a.js"
 );
 
 self.addEventListener('message', (event) => {
