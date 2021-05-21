@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b234cb5dfcf9e0fa306a4674a7a2c79",
+    "revision": "891b8cbb7cfd2a1bcf1e418eeda6f7f5",
     "url": "/the-lazy-chef-deploy-this/index.html"
   },
   {
-    "revision": "f8b935b13a1a3035aa52",
+    "revision": "13dc39b83786fea61b1f",
     "url": "/the-lazy-chef-deploy-this/static/css/main.edf53e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-lazy-chef-deploy-this/static/js/2.457cb57b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8b935b13a1a3035aa52",
-    "url": "/the-lazy-chef-deploy-this/static/js/main.3d6a4b22.chunk.js"
+    "revision": "13dc39b83786fea61b1f",
+    "url": "/the-lazy-chef-deploy-this/static/js/main.7d066789.chunk.js"
   },
   {
     "revision": "501aeaae174bd8081772",
